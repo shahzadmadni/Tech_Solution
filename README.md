@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahzad Madni</h1>
 <h3 align="center">A passionate Data Analysis Expert.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzadmadni&label=Profile%20views&color=0e75b6&style=flat" alt="shahzadmadni" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzadmadni" alt="shahzadmadni" /></a> </p>
-
 - 🔭 I’m currently working on **Multiple Tools Website**
 
 - 🌱 I’m currently learning **Python for Data Analysis, Power Automate, and API Integrations**
@@ -23,8 +19,5 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzadmadni&show_icons=true&locale=en&layout=compact" alt="shahzadmadni" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzadmadni&show_icons=true&locale=en" alt="shahzadmadni" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzadmadni&" alt="shahzadmadni" /></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
